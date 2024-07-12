@@ -22,7 +22,7 @@
 		5E25DBD42C40E328001A89F7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5E25DBD62C40E328001A89F7 /* MouseMover.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MouseMover.entitlements; sourceTree = "<group>"; };
 		5E25DBDE2C40E385001A89F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5E25DBE02C40E39F001A89F7 /* CustomMenuItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomMenuItemView.swift; path = ../../StayAwakeApp/StayAwakeApp/CustomMenuItemView.swift; sourceTree = "<group>"; };
+		5E25DBE02C40E39F001A89F7 /* CustomMenuItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomMenuItemView.swift; path = /Users/rajvindersingh/Desktop/MouseMover/CustomMenuItemView.swift; sourceTree = "<absolute>"; };
 		5E25DBE22C40E427001A89F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
