@@ -1,0 +1,22 @@
+<key>NSHumanReadableCopyright</key>
+<string>© 2024 Your Company Name</string>
+<key>CFBundleName</key>
+<string>MouseMover</string>
+<key>NSHighResolutionCapable</key>
+<string>True</string>
+<key>NSRequiresAquaSystemAppearance</key>
+<string>NO</string>
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
+<key>NSMicrophoneUsageDescription</key>
+<string>This app requires access to the microphone.</string>
+<key>NSCameraUsageDescription</key>
+<string>This app requires access to the camera.</string>
+<key>NSAppleEventsUsageDescription</key>
+<string>This app requires access to Apple events to control the mouse movements.</string>
+<key>NSAccessibilityUsageDescription</key>
+<string>This app requires access to accessibility features to control the mouse movements.</string>
+
