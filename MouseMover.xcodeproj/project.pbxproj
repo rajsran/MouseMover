@@ -57,9 +57,9 @@
 		5E25DBCC2C40E327001A89F7 /* MouseMover */ = {
 			isa = PBXGroup;
 			children = (
-				5E25DBE02C40E39F001A89F7 /* CustomMenuItemView.swift */,
 				5E25DBDE2C40E385001A89F7 /* AppDelegate.swift */,
 				5E25DBCD2C40E327001A89F7 /* MouseMoverApp.swift */,
+				5E25DBE02C40E39F001A89F7 /* CustomMenuItemView.swift */,
 				5E25DBD12C40E328001A89F7 /* Assets.xcassets */,
 				5E25DBD62C40E328001A89F7 /* MouseMover.entitlements */,
 				5E25DBD32C40E328001A89F7 /* Preview Content */,
